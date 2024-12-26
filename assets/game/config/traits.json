@@ -1,0 +1,52 @@
+[
+	{
+		"code": "cultivator",
+		"type": "positive",
+		"attributes": {
+			"fruittreeDropRate": 1,
+		}
+	},
+	
+	{
+		"code": "nyctophilic",
+		"type": "positive",
+		"attributes": {
+			"oreDropRate": 0.25,
+		}
+	},
+
+	{
+		"code": "rangedspec",
+		"type": "positive",
+		"attributes": { 
+			"rangedWeaponsDamage": 0.25, 
+			"rangedWeaponsAcc": 0.5,
+		}
+	},
+	
+	{
+		"code": "meleespec",
+		"type": "positive",
+		"attributes": {
+			"meleeWeaponsDamage": 0.25,
+		}
+	},
+	
+	{
+		"code": "military",
+		"type": "positive",
+		"attributes": {
+			"maxhealthExtraPoints": 10,
+			"armorWalkSpeedAffectedness": -0.5,
+		}
+	},
+	
+	{
+		"code": "civilian",
+		"type": "positive",
+		"attributes": {
+			"hungerrate": -0.25,
+			"animalSeekingRange": -0.25,
+		}
+	}
+]
